@@ -1,0 +1,1 @@
+Files with collected information will appear in this directory after you have executed the code from the health_diet.py file.
